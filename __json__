@@ -1,0 +1,14 @@
+{
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    },
+    ".gitignore": {
+        "description": ".gitignore with cache files"
+    },
+    "index.html": {
+        "description": "Main HTML file that displays 'Hello World' message",
+        "exposes": [
+            "Hello World"
+        ]
+    }
+}
